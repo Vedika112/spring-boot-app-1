@@ -1,12 +1,12 @@
-package com.app.demo.repo;
+// package com.app.demo.repo;
 
-import com.app.demo.entity.Account;
+// import com.app.demo.entity.Account;
 
-import org.springframework.data.jpa.repository.JpaRepository;
+// import org.springframework.data.jpa.repository.JpaRepository;
 
-import java.util.Optional;
+// import java.util.Optional;
 
 
-public interface AccountRepo extends JpaRepository<Account,Integer> {
-    Optional<Account> findByCustId(Integer custId);
-}
+// public interface AccountRepo extends JpaRepository<Account,Integer> {
+//     Optional<Account> findByCustId(Integer custId);
+// }
