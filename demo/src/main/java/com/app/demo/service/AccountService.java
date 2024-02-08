@@ -1,7 +1,7 @@
 package com.app.demo.service;
 
 import com.app.demo.entity.Account;
-import com.app.demo.repo.AccountRepo;
+//import com.app.demo.repo.AccountRepo;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
